@@ -13,15 +13,15 @@
 
 ---
 
-# Note
+# schedule Note
 
 ## 创建型模式
 
 - [x] 工厂模式（Factory Pattern）
 - [x] 抽象工厂模式（Abstract Factory Pattern）
 - [x] 单例模式（Singleton Pattern）
-- [ ] 建造者模式（Builder Pattern）
-- [ ] 原型模式（Prototype Pattern）
+- [x] 建造者模式（Builder Pattern）
+- [x] 原型模式（Prototype Pattern）
 
 ## 结构型模式
 
@@ -51,4 +51,4 @@
 
 
 ---
-update 2023.4.13
+update 2023.4.18
