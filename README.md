@@ -25,14 +25,14 @@
 
 ## 结构型模式
 
-- [ ] 适配器模式（Adapter Pattern）
-- [ ] 桥接模式（Bridge Pattern）
-- [ ] 过滤器模式（Filter、Criteria Pattern）
-- [ ] 组合模式（Composite Pattern）
-- [ ] 装饰器模式（Decorator Pattern）
-- [ ] 外观模式（Facade Pattern）
-- [ ] 享元模式（Flyweight Pattern）
-- [ ] 代理模式（Proxy Pattern）
+- [x] 适配器模式（Adapter Pattern）
+- [x] 桥接模式（Bridge Pattern）
+- [x] 过滤器模式（Filter、Criteria Pattern）
+- [x] 组合模式（Composite Pattern）
+- [x] 装饰器模式（Decorator Pattern）
+- [x] 外观模式（Facade Pattern）
+- [x] 享元模式（Flyweight Pattern）
+- [x] 代理模式（Proxy Pattern）
 
 ## 行为型模式
 
