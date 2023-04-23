@@ -40,15 +40,15 @@
 - [x] 命令模式（Command Pattern）
 - [x] 解释器模式（Interpreter Pattern）
 - [x] 迭代器模式（Iterator Pattern）
-- [ ] 中介者模式（Mediator Pattern）
-- [ ] 备忘录模式（Memento Pattern）
-- [ ] 观察者模式（Observer Pattern）
-- [ ] 状态模式（State Pattern）
-- [ ] 空对象模式（Null Object Pattern）
-- [ ] 策略模式（Strategy Pattern）
-- [ ] 模板模式（Template Pattern）
-- [ ] 访问者模式（Visitor Pattern）
+- [x] 中介者模式（Mediator Pattern）
+- [x] 备忘录模式（Memento Pattern）
+- [x] 观察者模式（Observer Pattern）
+- [x] 状态模式（State Pattern）
+- [x] 空对象模式（Null Object Pattern）
+- [x] 策略模式（Strategy Pattern）
+- [x] 模板模式（Template Pattern）
+- [x] 访问者模式（Visitor Pattern）
 
 
 ---
-update 2023.4.21
+update 2023.4.23
